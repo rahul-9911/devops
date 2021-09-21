@@ -10,10 +10,14 @@
 	<groupId>com.example</groupId>
 	<artifactId>devops</artifactId>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<version>1.1.1</version>
 =======
 	<version>0.0.1</version>
 >>>>>>> ca72fa2665e0d82ffae64b76a0cb01038949e470
+=======
+	<version>1.0.1-SNAPSHOT</version>
+>>>>>>> origin/release/initial_release
 	<packaging>war</packaging>
 	<name>devops</name>
 	<description>DevOps demo project</description>
